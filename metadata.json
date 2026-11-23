@@ -1,0 +1,6 @@
+{
+  "name": "particle-simulator",
+  "description": "interactive-sensory-particle-effects-simulator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
